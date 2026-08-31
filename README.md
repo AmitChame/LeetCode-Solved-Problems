@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
