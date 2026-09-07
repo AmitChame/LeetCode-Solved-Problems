@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
