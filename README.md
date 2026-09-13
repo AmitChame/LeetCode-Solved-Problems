@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
