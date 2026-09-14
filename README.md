@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [3871-count-commas-in-range-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
