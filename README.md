@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [3871-count-commas-in-range-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
