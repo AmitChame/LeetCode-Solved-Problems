@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0771-jewels-and-stones) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
