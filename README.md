@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
