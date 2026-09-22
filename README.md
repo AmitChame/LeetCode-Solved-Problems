@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
