@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/1872-stone-game-viii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmitChame/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
